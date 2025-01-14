@@ -27,11 +27,14 @@ Mov ecx,100
 S:
 	inc eax
 	Loop s
+```
 写出eax寄存器的值
 
 3. ARM的SDMEA指令的写回地址计算；
 4. 文件偏移量的计算；
 5. Call指令追踪到的地址计算（PPT上有！）
+
+
 
 ### 简答题
 
